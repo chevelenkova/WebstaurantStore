@@ -1,5 +1,4 @@
 package steps;
-import utilities.BrowserUtils;
 import utilities.ConfigurationReader;
 import utilities.Driver;
 import io.cucumber.java.After;
